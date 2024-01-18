@@ -28,7 +28,8 @@ https://chat.openai.com/g/g-QBAZNQhMv-brand-innerworld-pharma-data-analyst
 
 
 # Ocean-Biotech:
-Designed and developed a front-end website, for Pharma Company Ocean Biotech. The website contains all the information about the company and all Products it offers to the people. 
+Designed and Developed www.oceanbiotech.in 🧬
+Crafted a dynamic pharmaceutical website showcasing the company's diverse product range. Leveraged HTML, CSS, and JavaScript to create an engaging user experience, harmonizing innovation with design.
 Website is live at https://oceanbiotech.in/
 
 # Glametique-India:
